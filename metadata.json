@@ -1,0 +1,5 @@
+{
+  "name": "React Calculator",
+  "description": "A modern, functional calculator built with React, TypeScript, and Tailwind CSS. It supports basic arithmetic operations and provides a clean, user-friendly interface.",
+  "requestFramePermissions": []
+}
